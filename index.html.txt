@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mohammed Nader Ouerghi - CV</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background-color: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+        h2 {
+            border-bottom: 2px solid #333;
+            padding-bottom: 5px;
+        }
+        p, ul {
+            line-height: 1.6;
+        }
+        ul {
+            list-style-type: none;
+            padding-left: 0;
+        }
+        ul li::before {
+            content: "•";
+            color: #333;
+            padding-right: 10px;
+        }
+        .contact {
+            margin-bottom: 20px;
+        }
+        .contact a {
+            color: #007BFF;
+            text-decoration: none;
+        }
+        .contact a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Mohammed Nader Ouerghi</h1>
+        <div class="contact">
+            <p><strong>Email:</strong> <a href="mailto:mohamednederourghi@outlook.com">mohamednederourghi@outlook.com</a></p>
+            <p><strong>Adresse:</strong> 14, Rue Douha Arian, Tunisie</p>
+            <p><strong>Téléphone:</strong> 0021653349058</p>
+            <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/ouerghi-mohamed-neder-48a072204" target="_blank">Ouerghi Mohamed Nader</a></p>
+        </div>
+
+        <h2>Objectif</h2>
+        <p>Titulaire d'un diplôme en génie civil avec plus de 5 ans d'expérience pratique en laboratoire dans l'analyse des sols et des matériaux de construction. Je suis motivé et rigoureux, avec une solide connaissance des normes et procédures de laboratoire.</p>
+
+        <h2>Expériences professionnelles</h2>
+        <h3>Technicien de Laboratoire des Grands Projets - Société de Bâtiment et des Travaux Publics Cap Bon</h3>
+        <p><em>Novembre 2019 - Présent</em></p>
+        <ul>
+            <li>Analyse et contrôle des matériaux de construction.</li>
+            <li>Suivi des travaux de terrassement et gestion des rapports d'essais.</li>
+            <li>Encadrement des nouveaux techniciens et amélioration des protocoles d'analyse.</li>
+            <li>Collaboration avec les ingénieurs pour garantir la conformité des matériaux.</li>
+        </ul>
+
+        <h3>Technicien de laboratoire - Entreprise Kobbi Khaled</h3>
+        <p><em>Juin 2019 - Octobre 2019</em></p>
+        <ul>
+            <li>Planification et réalisation des essais de contrôle qualité en laboratoire de chantier.</li>
+            <li>Rédaction de rapports techniques et amélioration
